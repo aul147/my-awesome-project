@@ -1,0 +1,11 @@
+{
+  "name": "my-awesome-project",
+  "version": "1.0.0",
+  "description": "Proyek contoh untuk belajar GitHub",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Nama Anda",
+  "license": "MIT"
+}
